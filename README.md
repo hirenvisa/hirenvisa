@@ -1,6 +1,6 @@
 # Hi there, It's Hiren here 👋
 ## I'm an architect and developer.
-As a software developer, Hiren has started his career since 2010, working in many different industries including manufactoring, healthcare and finance. He always seek a wat to help every single individual and organisation to achieve more, with less resources. From that regards, Hiren mostly focuses on 
+As a software developer, Hiren has started his career since 2010, working in many different domains including manufactoring, healthcare and finance. He always seek a way to help every single individual and organisation to achieve more, with less resources. From that regards, Hiren mostly focuses on 
 
 - [.NET](https://dotnet.microsoft.com/en-us/) 👉 The most high performing programming language
 - [Azure](https://learn.microsoft.com/en-us/azure/?product=popular) 👉 Cloud service platform
@@ -15,7 +15,9 @@ As a software developer, Hiren has started his career since 2010, working in man
   - [Azure Learn](https://learn.microsoft.com/en-us/training/paths/azure-well-architected-framework/)
   - [Azure blog](https://azure.microsoft.com/en-us/blog/category/containers/)
 
-## Currently he is talking below courses
+## Contact
+[![Linkedin Badge](https://img.shields.io/badge/-Hiren-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/visavadiya-hiren-471b9815/)
+
   
 
 <!--

@@ -2,7 +2,7 @@
 ## I'm an architect and developer.
 As a software developer, Hiren has started his career since 2010, working in many different domains including manufactoring, healthcare and finance. He always seek a way to help every single individual and organisation to achieve more, with less resources. From that regards, Hiren mostly focuses on 
 
-- [C#]([https://dotnet.microsoft.com/en-us/](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/language-specification/readme) 👉 The most high performing programming language
+- [C#](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/language-specification/readme) 👉 The most high performing programming language
 - [Azure](https://learn.microsoft.com/en-us/azure/?product=popular) 👉 Cloud service platform
 - [AWS](https://aws.amazon.com/ec2/?nc2=h_ql_prod_fs_ec2) 👉 Cloud service platform
 
